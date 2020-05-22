@@ -4,7 +4,9 @@
  
  It prompts the user to select Play, Pause, or Stop.
  
- # Call of Duty Zombie Maps references
+ The user also has the option to set the volume. The default value is 0.0.
+ 
+ # Call of Duty Zombie Map references
  Tranzit - GameOver
  
  Der Eisendrache - GameOver2
