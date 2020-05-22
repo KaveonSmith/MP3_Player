@@ -1,4 +1,9 @@
 # MP3_Player
- Hello! This program allows the user to play three prefined songs 
- The songs are "Game Over" soundtracks from Call of Duty Zombies maps: Tranzit, Der Eisendrache, and Revelations
- The user has three options: Play, Pause, and Stop
+
+ This is a simple program that contains three "game over" songs from the Call of Duty Zombie maps
+ It prompts the user to select Play, Pause, or Stop.
+ 
+ # Call of Duty Zombie Maps references
+ Tranzit - GameOver
+ Der Eisendrache - GameOver2
+ Revelations - GameOver3
